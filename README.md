@@ -18,6 +18,8 @@ The Customer Support Intelligence system helps support teams bu grouping similar
 - Google Collab
 
 ## setup and installation
+1.cone the repo git clone
+2.need to install reuired libraries
 - python libraries
           - dataset
           - pandas
