@@ -8,5 +8,24 @@ Customer support Intelligence System
 5.[Implementation steps](#implementation_steps)
 
 
-##overview
+
+## overview
 The Customer Support Intelligence system helps support teams bu grouping similar issues,predicting urgent tickets,and suggesting solutions-making cusstomer service faster and smarter.
+
+## Prerequisites
+
+- Python 3.10
+- Google Collab
+
+## setup and installation
+- python libraries
+          - dataset
+          - pandas
+          - sentence-transformers
+          - umap-learn
+          - hdbscan
+          - plotly
+
+
+##Setup and installation
+
